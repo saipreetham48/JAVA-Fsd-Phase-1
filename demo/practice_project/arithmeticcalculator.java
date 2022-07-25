@@ -19,7 +19,7 @@ public class arithmeticcalculator {
    return a * b;
   }
   
-  public floa div(float a,float b)
+  public float div(float a,float b)
   {
    return a / b;
   }

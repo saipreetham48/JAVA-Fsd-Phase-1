@@ -1,4 +1,0 @@
-welcome to git
-
-
-Just for secon commit
