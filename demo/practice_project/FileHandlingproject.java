@@ -88,7 +88,7 @@ public class FileHandlingproject {
 		 address = strInput.nextLine(); 
 		 
 		 bufferwriter.write(ID +","+ name+ ","+ age+ ","+ address);
-		 bufferwriter.flush();
+		
 		 bufferwriter.newLine();
 		 bufferwriter.close();
 		 
@@ -143,7 +143,7 @@ public class FileHandlingproject {
 		 continue;
 		 
 		 bw.write(record);
-		 bw.flush();
+		
 		 bw.newLine();
 		 }
 		 
@@ -234,7 +234,7 @@ public class FileHandlingproject {
 		 
 		 bw.write(record2);
 		 } 
-		 bw.flush();
+		
 		 bw.newLine();
 		 }
 		 

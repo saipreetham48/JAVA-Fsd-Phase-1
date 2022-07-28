@@ -28,7 +28,7 @@ public class arithmeticcalculator {
   
   arithmeticcalculator ac = new arithmeticcalculator();
   int a,b,choice;
-  @SuppressWarnings("resource")
+  
 Scanner sc = new Scanner(System.in);
   System.out.println("Enter Value of A : ");
   a=sc.nextInt();
